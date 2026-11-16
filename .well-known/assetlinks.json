@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.emunah.app",
+        "sha256_cert_fingerprints": ["78:2D:71:77:EB:C1:0A:75:C0:54:A3:57:27:C1:55:E7:3F:1B:78:26:36:B8:A3:D4:19:98:99:B4:E5:AE:E2:7B"]
+      }
+    }]
